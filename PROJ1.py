@@ -25,7 +25,7 @@ def main():
 
         )
         if chat_completions:
-            st.write('BOT : '+ chat_completions.choices[0].message.content)
+            st.write('MANJIN : '+ chat_completions.choices[0].message.content)
         else:
             st.write('No response from the bot')
 if __name__ == '__main__':
