@@ -4,7 +4,7 @@ client = Groq(api_key='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'
 # website name 
 st.title('Manjin AI') 
 st.subheader('By Huzaifah Altaf')
-st.write('-')
+st.write('--')
 st.text('\n'*3)
 st.write('Ask me anything')
 
