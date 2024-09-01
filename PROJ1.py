@@ -14,7 +14,7 @@ def main():
     lower_message = message.lower()
     if  'your creator' in lower_message or 'huzaifah' in lower_message:
          st.write('Huzaifah Altaf, the creator of Manjin AI (that is me), is a student of Computer Science & Engineering at Guru Nanak Institutions.'
-                 'You can contact with him on LinkedIn:[Huzaifah Altaf LinkedIn] www.linkedin.com/in/huzaifah-altaf-0874a628b'
+                 'You can contact with him on LinkedIn:[Huzaifah Altaf LinkedIn] (www.linkedin.com/in/huzaifah-altaf-0874a628b)'
         )
     elif message.lower() in ['Manjin ai','MANJIN AI','manjin ai','who are you','who are you?','what is your name','what is your name?']:
          st.write(
