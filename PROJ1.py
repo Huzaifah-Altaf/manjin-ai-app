@@ -3,7 +3,7 @@ from groq import Groq
 client = Groq(api_key='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')
 
 st.title('Manjin AI') # title 
-st.text('Created by Huzaifah Altaf')
+st.subheader('Created by Huzaifah Altaf')
 st.write('---')
 st.write('\n'*3)
 st.write('Ask me anything')
