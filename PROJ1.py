@@ -12,7 +12,7 @@ def main():
     message = st.text_input('Write the Question here')
     
     lower_message = message.lower()
-    if 'huzaifah' in lower_message:
+    if  'your creator','huzaifah' in lower_message:
          st.write('Huzaifah Altaf, the creator of Manjin AI (that is me), is a student of Computer Science & Engineering at Guru Nanak Institutions.'
                  'You can contact with him on LinkedIn: www.linkedin.com/in/huzaifah-altaf-0874a628b')
    
