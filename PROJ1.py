@@ -17,6 +17,8 @@ def main():
                  'You can contact with him on LinkedIn: www.linkedin.com/in/huzaifah-altaf-0874a628b')
     elif 'ayaan' in lower_message:
          st.write('puri gang nikalti')
+    elif 'safwan' in lower_message:
+         st.write('Mr.Safwan Azmi ak bahut hi bade izzat daar business  man hai unho ne apni zindagi main bahut kuch hasil kya hai agar apko unse kuch maloomaat hasil karni ho to yeh ley unka contact number: 8121058300')
     elif 'ayan' in lower_message:
          st.write('puri gang nikalti')
 
