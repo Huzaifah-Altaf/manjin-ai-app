@@ -1,6 +1,6 @@
 import streamlit as st
 from groq import Groq
-client = Groq(api_key='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')
+client = Groq(api_key='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')
 
 st.title('Manjin AI') # title 
 st.subheader('Created by Huzaifah Altaf')
